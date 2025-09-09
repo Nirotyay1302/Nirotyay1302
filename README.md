@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirotyay1302&label=Profile%20views&color=0e75b6&style=flat" alt="nirotyay1302" /> </p>
 
-- 🔭 I’m currently working on [CTF APP](https://github.com/Nirotyay1302/CTF_GAME)
+- 🔭 I’m currently working on [TruthNudge APP](https://github.com/Nirotyay1302/CTF_GAME)
 
 - 👨‍💻 All of my projects are available at [https://nirotyay-portfolio.netlify.app/](https://nirotyay-portfolio.netlify.app/)
 
