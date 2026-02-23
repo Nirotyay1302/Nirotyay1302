@@ -1,79 +1,80 @@
-<h1 align="center">Nirotyay Mukherjee</h1>
+<h1 align="center">Hi 👋, I'm Nirotyay Mukherjee</h1>
+<h3 align="center">Frontend Developer | Full-Stack Enthusiast | Aspiring Software Engineer</h3>
+
 <p align="center">
-  Frontend Developer · Full-Stack Enthusiast · Cloud & Data
+  <a href="https://nirotyayportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/nirotyay-mukherjee-560632230"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
-  <a href="https://nirotyay-portfolio.netlify.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/nirotyay-mukherjee-560632230">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirotyay1302&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## Professional Summary
-Frontend-focused developer with hands-on experience building responsive web applications and deploying data-driven projects. Comfortable working across the stack with **JavaScript, React, Python, Databases, and AWS**. Actively seeking **Software Developer / Frontend / Full-Stack** roles.
-
----
-
-## Current Focus
-- Building a **Sentiment Analysis Web Application**
-- Improving **React performance & UI/UX**
-- Learning **cloud deployment, Docker & scalable APIs**
-
----
-
-## Featured Projects
-### Sentiment Analysis Application
-A web application that classifies user text into **positive, neutral, or negative sentiment** using NLP.
-
-**Tech:** Python, Machine Learning, Flask, AWS EC2  
-**Repo:** https://github.com/Nirotyay1302/Sentiment-Analysis
-
----
-
-### Portfolio Website
-Personal developer portfolio showcasing projects, skills, and contact information.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap  
-**Live:** https://nirotyay-portfolio.netlify.app/
-
----
-
-### Full-Stack Practice Projects
-Authentication systems, CRUD apps, and database-driven applications.
-
-**Tech:** React, Node.js, MongoDB, MySQL  
-**Repos:** See pinned repositories
-
----
-
-## Technical Skills
-**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
-**Backend:** Node.js, Python, Java, Spring Boot  
-**Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
-**Cloud & DevOps:** AWS, Docker, Nginx  
-**Tools:** Git, GitHub, Linux, VS Code
-
----
-
-## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirotyay1302&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=transparent" />
+  <img src="https://komarev.com/ghpvc/?username=nirotyay1302&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## Career Goal
-To join a product-driven team as a **Junior Software Developer / Frontend Engineer**, where I can build real-world applications, write clean code, and continuously grow my engineering skills.
+### 🚀 About Me
+
+I am a **Frontend-focused developer** with hands-on experience building responsive web applications and deploying data-driven projects. I am passionate about creating seamless user experiences and writing clean, efficient code. I am currently seeking **Software Developer / Frontend / Full-Stack** roles where I can contribute to impactful projects.
+
+- 🔭 I’m currently working on a **Sentiment Analysis Web Application**.
+- 🌱 I’m currently learning **Cloud Deployment (AWS/Docker)** and **Scalable API Design**.
+- 💬 Ask me about **React, JavaScript, and Web Performance**.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/nirotyay-mukherjee-560632230)
+
+---
+
+### 🛠️ Technical Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Sentiment Analysis App** | Classifies text into positive, neutral, or negative sentiment using NLP. | `Python`, `Flask`, `NLP`, `AWS` |
+| **Developer Portfolio** | Personal site showcasing projects and skills. | `HTML`, `CSS`, `JS`, `Netlify` |
+| **Full-Stack Auth System** | Secure authentication system with CRUD operations. | `React`, `Node.js`, `MongoDB` |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirotyay1302&show_icons=true&theme=transparent" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=transparent" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=transparent" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Passionate about building software that solves real-world problems."</i>
+</p>
