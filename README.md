@@ -61,13 +61,8 @@ I am a **Frontend-focused developer** with hands-on experience building responsi
 
 ### 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirotyay1302&theme=tokyonight&area=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190" />
 </div>
 
 ---
