@@ -62,15 +62,18 @@ I am a **Frontend-focused developer** with hands-on experience building responsi
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirotyay1302&show_icons=true&theme=transparent" alt="Stats" />
+  <a href="https://github.com/nirotyay1302">
+    <img src="https://github-profile-trophy.vercel.app/?username=nirotyay1302&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=transparent" alt="Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirotyay1302&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="185" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=tokyonight&hide_border=true" height="185" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=transparent" alt="Top Langs" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
