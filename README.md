@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-I am a **Frontend-focused developer** with hands-on experience building responsive web applications and deploying data-driven projects. I am passionate about creating seamless user experiences and writing clean, efficient code. I am currently seeking **Software Developer / Frontend / Full-Stack** roles where I can contribute to impactful projects.
+I am a **Frontend-focused developer** with hands-on experience building responsive web applications and deploying data-driven projects. Based in **Serampore, West Bengal**, I am currently pursuing my B.Tech at **MCKV Institute of Engineering**. I am passionate about creating seamless user experiences and writing clean, efficient code.
 
-- 🔭 I’m currently working on a **Sentiment Analysis Web Application**.
+- 🔭 I’m currently working on an **Advanced Sentiment Analysis Web Application** (Final Year Project).
 - 🌱 I’m currently learning **Cloud Deployment (AWS/Docker)** and **Scalable API Design**.
 - 💬 Ask me about **React, JavaScript, and Web Performance**.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/nirotyay-mukherjee-560632230)
@@ -59,22 +59,16 @@ I am a **Frontend-focused developer** with hands-on experience building responsi
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <a href="https://github.com/nirotyay1302">
-    <img src="https://github-profile-trophy.vercel.app/?username=nirotyay1302&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirotyay1302&theme=tokyonight&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirotyay1302&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=tokyonight&hide_border=true" height="185" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirotyay1302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190" />
 </div>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirotyay1302&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
